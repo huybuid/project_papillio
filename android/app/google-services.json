@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "148535471986",
+    "project_id": "project2-c9b95",
+    "storage_bucket": "project2-c9b95.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:148535471986:android:4a6b05e159cb879a3777eb",
+        "android_client_info": {
+          "package_name": "com.huybui.project_project_papillio"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "148535471986-848dqcosq184rp9vpjpmooib3im3g1tg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2G5Vah_F47gI5WFDoGZRRir3arfYjIzo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "148535471986-848dqcosq184rp9vpjpmooib3im3g1tg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
