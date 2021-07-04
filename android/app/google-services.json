@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "148535471986",
-    "project_id": "project2-c9b95",
-    "storage_bucket": "project2-c9b95.appspot.com"
+    "project_number": "130352383362",
+    "project_id": "project-papillio-c43e5",
+    "storage_bucket": "project-papillio-c43e5.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:148535471986:android:4a6b05e159cb879a3777eb",
+        "mobilesdk_app_id": "1:130352383362:android:3f9ddc4763c83a835a3b9b",
         "android_client_info": {
           "package_name": "com.huybui.project_project_papillio"
         }
       },
       "oauth_client": [
         {
-          "client_id": "148535471986-848dqcosq184rp9vpjpmooib3im3g1tg.apps.googleusercontent.com",
+          "client_id": "130352383362-f5gd3mvkjjmk4lccotn7agqiqre6ipg0.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyD2G5Vah_F47gI5WFDoGZRRir3arfYjIzo"
+          "current_key": "AIzaSyAId4iCX0Oz3wcv_TDTifO7wpMxKot2jMY"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "148535471986-848dqcosq184rp9vpjpmooib3im3g1tg.apps.googleusercontent.com",
+              "client_id": "130352383362-f5gd3mvkjjmk4lccotn7agqiqre6ipg0.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
